@@ -1,0 +1,6 @@
+1=ADMIN=admin=admin
+2=BADAPPLE=easteregg=badapple
+3=RB=AAABBB=rb
+4=ERIC=ericleeverycool=eric
+5=JUNI=junijunijunijuni=Juni
+6=JARED=12345678=Jared
